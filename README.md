@@ -9,7 +9,7 @@
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)
 发布。
 
-- `example.png` 改编自[ZipZipPipe 角色](https://www.pixiv.net/artworks/148186519)，原作者为「ZipZipPipe」，
+- 图片均改编自[ZipZipPipe 角色](https://www.pixiv.net/artworks/148186519)，原作者为「ZipZipPipe」，
   原图以作者开放分享及再创作的说明为准
 - 改动包括重新绘制线条、调整配色和优化构图。
   
